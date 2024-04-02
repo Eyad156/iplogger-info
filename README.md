@@ -5,7 +5,7 @@ This Tool Created By @Eyad156 @Driplay
 -pip install requests
 -----------------------------------------------------------
 **To download socket run this code in cmd or terminal:**
--pip install socket
+```pip install socket```
 -----------------------------------------------------------
 **To download time run this code in cmd or terminal:**
 -pip install time
