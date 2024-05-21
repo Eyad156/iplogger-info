@@ -30,6 +30,7 @@ url = "https://ipinfo.io"
 print("1. Check your ip info ")
 print("2. Check somene's ip info ")
 print("3. Get ip of web  \n")
+print("")
 
 choice = input("Choice (1 or 2 or 3) > ")
 
@@ -78,7 +79,7 @@ elif choice == "2":
     print("Postal Code :",POS)
     print("Time Zone :",TZ)
 elif choice == '3':
-    enter_name = input(Fore.YELLOW + "Enter name of website -> ")
+    enter_name = input(Fore.YELLOW + "Enter name of website (example.com) -> ")
     get = socket.gethostbyname(enter_name)
     print(Fore.WHITE+f"Ip of {get} : "+Fore.LIGHTGREEN_EX +get)
 # elif choice == '4':
