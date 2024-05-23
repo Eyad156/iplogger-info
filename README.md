@@ -24,4 +24,5 @@ This Tool Created By @Eyad156 @Driplay
 There are 3 Options choose one of them and You will give you info ✔
 ----------------------------------------------
 **Subscribe in my Channel -> https://www.youtube.com/channel/UCT0aFs8auzYbAic2hE7Bglw**
-Donat to Me on Paypal --> "eyad1509@gmail.com"
+
+Donate to Me on Paypal --> "eyad1509@gmail.com"
