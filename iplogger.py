@@ -3,6 +3,7 @@ import socket , time
 from colorama import Fore , init
 import sys
 from scapy.all import ARP, Ether, srp
+import selenium
 init()
 
 a1 = "                          ██╗██████╗▄▄▄▄▄██╗▄▄▄▄▄▄██████╗▄▄██████╗▄▄██████╗ ███████╗██████╗\n "
@@ -30,7 +31,7 @@ url = "https://ipinfo.io"
 print("1. Check your ip info ")
 print("2. Check somene's ip info ")
 print("3. Get ip of web  \n")
-print("")
+print("4. Get devices connected on Wifi")
 
 choice = input("Choice (1 or 2 or 3) > ")
 
